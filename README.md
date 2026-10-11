@@ -6,8 +6,8 @@ Data and images are stored in MongoDB Atlas.
 **Student:** Althea Martinez - INF238
 
 ## Live Links
-- Website (Vercel): (add after Step 52)
-- API (Render): (add after Step 41)
+- Website (Vercel): https://showcase-eya.vercel.app/
+- API (Render): https://showcase-gallery-ecsc.onrender.com
 
 ## Tech Stack
 MongoDB Atlas · Express.js · React (Vite) · Node.js
